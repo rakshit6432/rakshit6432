@@ -1,6 +1,6 @@
 ### Hi there, I'm Rakshith Suvarna [rakshithsuvarna][website] 👋
 
-## I'm a Student, Developer, and Programer!
+## I'm a Student, Developer and Programer!
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
