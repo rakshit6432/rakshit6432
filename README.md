@@ -40,7 +40,7 @@
 
 ---
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/rakshit6432">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rakshit6432&show_icons=true&theme=dark&line_height=27" alt="rakshith suavrnas's github stats"/>
 </a>
 
