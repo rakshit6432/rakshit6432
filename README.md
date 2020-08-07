@@ -1,4 +1,4 @@
-### Hi there, I'm Rakshith Suvarna [rakshithsuvarna][website] 👋
+### Hi there, I'm [Rakshith Suvarna][website] 👋
 
 ## I'm a Student, Developer and Programer!
 - 🔭 I’m currently working on a [VS Code Course][website]!
