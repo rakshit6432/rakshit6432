@@ -48,7 +48,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshit6432&theme=dark&hide_langs_below=1" />
 </a>
 
-[website]: https://rakshithsuvarna.me
+[website]: https://prime24.tech
 [twitter]: https://twitter.com/rakshith6432
 [instagram]: https://instagram.com/rakshith_suvarna1111
 [linkedin]: https://linkedin.com/in/rakshithsuvarna
