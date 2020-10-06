@@ -1,9 +1,9 @@
 ### Hi there, I'm [Rakshith Suvarna][website] 👋
 
-## I'm a Student, Developer and Programer!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+## 👨‍🎓I'm a Student, I am also a Developer and a Programer
+- 🔭 I’m pursuing a Course Cloud Computing and Infomation Security
+- 🌱 learning so many things
+- 👯 I would like to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code.
 
