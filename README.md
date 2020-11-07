@@ -41,7 +41,7 @@
 ---
 
 <a href="https://github.com/rakshit6432">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rakshit6432&show_icons=true&theme=dark&line_height=37" alt="rakshith suavrnas's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rakshit6432&show_icons=true&theme=dark&line_height=47" alt="rakshith suavrnas's github stats"/>
 </a>
 
 <a href="https://github.com/rakshit6432">
