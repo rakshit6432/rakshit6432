@@ -3,7 +3,6 @@
 ## 👨‍🎓I'm a Student, I am also a Developer and a Programer
 - 🔭 I’m pursuing a Course Cloud Computing and Infomation Security
 - 🌱 learning so many things
-- 👯 I would like to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code.
 
